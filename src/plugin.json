@@ -1,0 +1,35 @@
+{
+  "type": "datasource",
+  "name": "grafana_tarantool_datasource",
+  "id": "vasiliy-t-grafana-tarantool-datasource",
+  "metrics": true,
+  "info": {
+    "description": "",
+    "author": {
+      "name": "V",
+      "url": ""
+    },
+    "keywords": [],
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://github.com/vasiliy-t/grafana-tarantool-datasource"
+      },
+      {
+        "name": "License",
+        "url": "https://github.com/vasiliy-t/grafana-tarantool-datasource/blob/master/LICENSE"
+      }
+    ],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+  "dependencies": {
+    "grafanaVersion": "6.5.x",
+    "plugins": []
+  }
+}
